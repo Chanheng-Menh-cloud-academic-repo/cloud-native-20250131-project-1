@@ -1,5 +1,4 @@
-# cloud-native-20250131-project-1
-# 🌐 API Gateway with Microservices (Node.js + Express)
+# 🌐 Node.js API Gateway with Modular Services and JWT Authentication
 
 This project demonstrates a basic **API Gateway** architecture using **Node.js**, **Express**, and **JWT authentication**, routing requests to multiple microservices for user registration, login, search, update, and deletion.
 
